@@ -1,0 +1,37 @@
+h1{
+    color: yellow;
+    background-color: blue;
+    text-transform: capitalize;
+}
+
+h2{
+    color: darkred;
+    text-transform: capitalize;
+}
+
+h3{
+    color: darkred;
+    text-transform: capitalize;
+}
+
+p{
+    color: red;
+    font-family: Arial;
+    font-size: 14px;
+    letter-spacing: 0.5em;
+    word-spacing: 0.5em;
+    line-height: 1.5;
+    text-align: center;
+}
+
+body{
+    font-size: 14px;
+    color: navy;
+    margin: 20px;
+    padding: 40px;
+}
+
+a{
+    color: blue;
+}
+
